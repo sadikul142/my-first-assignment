@@ -35,7 +35,9 @@ h1{
 .person{
     width: 100%;
 }
-.objectives{
-    width: 70%;
-    padding-left: 30%;
+.objectives-picture{
+    size: 50px;
+}
+.mission-objective{
+    display: flex;
 }
