@@ -63,6 +63,7 @@ h3{
 .objectives img{
     width: 50%;
 }
+
 .mission{
     background-color: #FDEBD0  ;
     margin-left: 10%;
@@ -94,6 +95,7 @@ h3{
     background-position: left;
     display: flex;
 }
+
 .community{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
