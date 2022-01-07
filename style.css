@@ -1,13 +1,18 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-section{
+.introduction-part{
     display: flex;
     
 }
 h1{
-    font-size: 50px;
-    padding-left: 10px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 45px;
+    padding-left: 4%;
+  
+}
+h3{
+    font-size: 30px ;
 }
 
 #heading-color{
@@ -18,10 +23,12 @@ h1{
     border-radius: 2px;
 }
 .new-mission{
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 60px;
-    padding-bottom: 100px;
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+    
 }
 .button{
     text-decoration: none;
@@ -33,11 +40,56 @@ h1{
 
 }
 .person{
-    width: 100%;
+    width: 70%;
 }
-.objectives-picture{
-    size: 50px;
-}
+
 .mission-objective{
     display: flex;
 }
+.objectives{
+    padding:2%;
+}
+.discription-heading{
+    font-size: 35px;
+    font-weight: 700;
+    margin-left: 35%;
+}
+.objective-year{
+    color: #52BE80;
+}
+
+.objectives img{
+    width: 50%;
+}
+.mission{
+    background-color: #FDEBD0  ;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    border-radius: 15px;
+}
+.vision{
+    background-color: #D4EFDF;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    border-radius: 15px;
+    
+}
+.goals{
+    background-color: #D5D8DC;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    border-radius: 15px;
+}
+
+.forword{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 18% 35%;   
+    background-position: left;
+    display: flex;
+}
+
