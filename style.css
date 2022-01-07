@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .introduction-part{
     display: flex;
@@ -9,6 +10,7 @@ h1{
     font-family: 'Abril Fatface', cursive;
     font-size: 45px;
     padding-left: 4%;
+    margin-bottom: 0;
   
 }
 h3{
@@ -92,4 +94,18 @@ h3{
     background-position: left;
     display: flex;
 }
+.community{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 18% 35%;   
+    background-position: right;
+    display: flex;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+   
+}
+
 
