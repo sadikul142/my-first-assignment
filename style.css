@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    
+}
+h1{
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+#heading-color{
+    color: #52BE80;
+}
+.head-line{
+    border-left: 4px solid rgb(105, 52, 155);
+    border-radius: 2px;
+}
+.new-mission{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #A569BD;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+
+}
+.person{
+    width: 100%;
+}
+.objectives{
+    width: 70%;
+    padding-left: 30%;
+}
